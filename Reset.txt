@@ -2,3 +2,4 @@ Test1
 Test2
 Test3
 Point 4
+point 6
